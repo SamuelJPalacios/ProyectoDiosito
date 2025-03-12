@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "25124631215",
+    "project_id": "crudiot-926c2",
+    "storage_bucket": "crudiot-926c2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:25124631215:android:df544aa417c14c718c9a5a",
+        "android_client_info": {
+          "package_name": "com.cinthya.crudiot"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBokVYmVy2ba3TnqEyMlV9x6P8AlCxc3rg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
