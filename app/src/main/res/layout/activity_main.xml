@@ -36,13 +36,8 @@
                 android:layout_height="wrap_content"
                 android:text="Ir a control"/>
 
-
         </LinearLayout>
 
-
-
-
     </com.google.android.material.appbar.AppBarLayout>
-
 
 </LinearLayout>
